@@ -27,17 +27,17 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.name 'HGJin'  # GitHub 사용자 이름으로 수정
-          git config --local user.email 'hgj7618@naver.com'  # GitHub 이메일 주소로 수정
+          git config --local user.name 'HGJin'
+          git config --local user.email 'hgj7618@naver.com'
 
       - name: Commit README
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m 'Update README with latest blog posts'
-            git push
+            git push https://github.com/HGJin/tistory.git HEAD:main
           else
             echo "No changes to commit"
           fi
         env:
-          repo_token: ${{ secrets.repo_token }}  # Secrets에 설정한 토큰 이름으로 수정
+          repo_token: ${{ secrets.repo_token }}

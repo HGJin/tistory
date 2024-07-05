@@ -21,11 +21,11 @@ let text = `# 안녕하세요! 👋
   <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 -->
-## Contact me
+## 이메일
 
 hjindata@gmail.com
 
-## 📕 Latest Blog Posts
+## 📕 블로그 최신 글
 <p>
     <a href="https://hjindata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
 </p>

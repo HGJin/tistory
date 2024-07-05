@@ -1,0 +1,27 @@
+name: Disconnect Remote
+
+on:
+  push:
+    branches:
+      - main  # 특정 브랜치에 푸시되었을 때 작동하도록 설정
+
+jobs:
+  disconnect-remote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Disconnect remote repository
+        run: |
+          git remote remove origin  # 원격 저장소 제거
+          git remote prune origin   # 원격 저장소 추적 브랜치 제거 (선택 사항)
+
+      - name: Commit and push changes (optional)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Token 사용
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -am "Disconnect remote repository"
+          git push origin main  # 변경사항을 푸시하여 적용

@@ -26,15 +26,19 @@ let text = `# 안녕하세요! 🙋‍♂️
 hjindata@gmail.com
 
 ## 📝 블로그 최신 글
-<p>
-    <a href="https://hjindata.tistory.com/">
-      <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/tistory.png&logoColor=white" width="300" height="200" />
-    </a><br>
-    <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/">
-      <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/notion.png&logoColor=white" width="300" height="200" />
-    </a><br>
+<div style="display: flex; flex-direction: row;">
+    <div style="margin-right: 10px;">
+        <a href="https://hjindata.tistory.com/">
+            <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/tistory.png&logoColor=white" width="100" height="50" />
+        </a>
+    </div>
+    <div>
+        <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/">
+            <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/notion.png&logoColor=white" width="100" height="50" />
+        </a>
+    </div>
+</div>
 
-</p>
 
 `;
 

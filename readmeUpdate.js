@@ -28,7 +28,7 @@ hjindata@gmail.com
 ## 📝 블로그 최신 글
 <p>
     <a href="https://hjindata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
-    <a href="https://bit.ly/3WCUdo1/"><img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white"/></a><br>
+    <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/"><img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white"/></a><br>
 </p>
 
 `;

@@ -25,10 +25,21 @@ jobs:
       - name: Run update script
         run: npm start
  
-      - name: Commit README
+      - name: Ignore node_modules directory
+        run: echo "node_modules/" >> .gitignore
+ 
+      - name: Configure Git
         run: |
           git config --local user.name 'HGJin'
           git config --local user.email 'hgj7618@naver.com'
+ 
+      - name: Check for changes
+        id: check_changes
+        run: echo ::set-output name=files_changed::$(git status --porcelain)
+ 
+      - name: Commit and push if changes
+        if: ${{ steps.check_changes.outputs.files_changed != '' }}
+        run: |
           git add README.md
           git commit -m 'Update README with latest blog posts'
           git push origin HEAD:main

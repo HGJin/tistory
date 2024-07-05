@@ -20,8 +20,13 @@ hjindata@gmail.com
 
 ## 📝 블로그 최신 글
 <p>
-    <a href="https://hjindata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
-    <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/"><img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white"/></a><br>
+    <a href="https://hjindata.tistory.com/">
+      <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white" width="300" height="200" />
+    </a><br>
+    <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/">
+      <img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white" width="300" height="200" />
+    </a><br>
+
 </p>
 
 <a href=https://hjindata.tistory.com/123>-</a></br><a href=https://hjindata.tistory.com/122>데이터 시각화 기초(3)</a></br><a href=https://hjindata.tistory.com/121>시각화 그래프 기초(2)</a></br><a href=https://hjindata.tistory.com/120>데이터 시각화 기초(1)</a></br><a href=https://hjindata.tistory.com/119>Ch08 클래스</a></br><a href=https://hjindata.tistory.com/118>Ch07-3 모듈 / 모듈 만들기</a></br><a href=https://hjindata.tistory.com/117>Ch07-2 모듈 / 외부 모듈</a></br>

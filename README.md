@@ -1,4 +1,4 @@
-# 안녕하세요! 👋
+# 안녕하세요! 🙋‍♂️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HGJin)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -14,13 +14,14 @@
   <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 -->
-## 이메일
+## 이메일 💻
 
 hjindata@gmail.com
 
-## 📕 블로그 최신 글
+## 📝 블로그 최신 글
 <p>
     <a href="https://hjindata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
+    <a href="https://bit.ly/3WCUdo1/"><img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white"/></a><br>
 </p>
 
 <a href=https://hjindata.tistory.com/123>-</a></br><a href=https://hjindata.tistory.com/122>데이터 시각화 기초(3)</a></br><a href=https://hjindata.tistory.com/121>시각화 그래프 기초(2)</a></br><a href=https://hjindata.tistory.com/120>데이터 시각화 기초(1)</a></br><a href=https://hjindata.tistory.com/119>Ch08 클래스</a></br><a href=https://hjindata.tistory.com/118>Ch07-3 모듈 / 모듈 만들기</a></br><a href=https://hjindata.tistory.com/117>Ch07-2 모듈 / 외부 모듈</a></br>

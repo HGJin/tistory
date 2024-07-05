@@ -22,7 +22,7 @@ hjindata@gmail.com
 <div style="display: flex; flex-direction: row;background-color: white;padding: 10px;">
     <div style="margin-right: 10px;">
         <a href="https://hjindata.tistory.com/">
-            <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/tistory.png?raw=true" width="100" height="50" />
+            <img src="https://github.com/HGJin/tistory/blob/main/logo/tistory1.png?raw=true" width="100" height="50" />
         </a>
         <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/">
             <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/notion.png?raw=true" width="100" height="50" />

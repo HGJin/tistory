@@ -18,7 +18,7 @@ jobs:
         run: npm start
       - name: Commit README
         env:
-          PAT: ${{ secrets.Personal_HGJ }}
+          PAT: ${{ secrets.PERSONAL_HGJ }}
         run: |
           git add .
           git config --local user.email "hjindata@gmail.com"

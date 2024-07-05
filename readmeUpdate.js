@@ -8,8 +8,9 @@ import Parser from "rss-parser";
 let text = `# 안녕하세요! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HGJin)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HGJin&layout=compact&hide=r,jupyter%20notebook,c%23&exclude_repo=roharui.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 ## 이런 환경에 익숙해요✍🏼
 

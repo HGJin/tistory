@@ -1,0 +1,12 @@
+# 로컬에서 Git 저장소 초기화
+git init
+
+# 파일 추가 및 커밋
+git add .
+git commit -m "Initial commit"
+
+# 원격 저장소 추가 (원격 저장소 URL은 GitHub 예시)
+git remote add origin https://github.com/username/repository.git
+
+# 코드 푸시
+git push -u origin main  # main 브랜치 예시, 사용하는 브랜치에 따라 다를 수 있음

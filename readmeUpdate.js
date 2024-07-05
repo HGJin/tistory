@@ -5,7 +5,7 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# 안녕하세요! 👋
+let text = `# 안녕하세요! 🙋‍♂️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HGJin)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -21,13 +21,14 @@ let text = `# 안녕하세요! 👋
   <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 -->
-## 이메일
+## 이메일 💻
 
 hjindata@gmail.com
 
-## 📕 블로그 최신 글
+## 📝 블로그 최신 글
 <p>
     <a href="https://hjindata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
+    <a href="https://bit.ly/3WCUdo1/"><img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white"/></a><br>
 </p>
 
 `;

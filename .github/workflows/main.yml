@@ -1,34 +1,37 @@
 name: Update README
- 
+
 on:
   schedule:
-    - cron: "0 */1 * * *" # 매 시간 정각에 실행
+    - cron: "0 */1 * * *"  # 매 시간 정각에 실행
   push:
     branches:
       - main
- 
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
- 
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: "20"
- 
+
       - name: Install dependencies
         run: npm ci
- 
+
       - name: Run update script
         run: npm start
- 
+
+      - name: Configure Git
+        run: |
+          git config --local user.name 'HGJin'  # GitHub 사용자 이름으로 수정
+          git config --local user.email 'hgj7618@naver.com'  # GitHub 이메일 주소로 수정
+
       - name: Commit README
         run: |
-          git config --local user.name 'HGJin' # 수정
-          git config --local user.email 'hgj7618@naver.com' # 수정
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m 'Update README with latest blog posts'
@@ -37,4 +40,4 @@ jobs:
             echo "No changes to commit"
           fi
         env:
-          GH_PERSONAL_TOKEN: ${{ secrets.repo_token }} # 수정
+          repo_token: ${{ secrets.repo_token }}  # Secrets에 설정한 토큰 이름으로 수정

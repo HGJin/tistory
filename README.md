@@ -14,7 +14,7 @@
 
 ## Contact me
 
-gangsuyun6@gmail.com
+hjindata@gmail.com
 
 ## 📕 Latest Blog Posts
 <p>

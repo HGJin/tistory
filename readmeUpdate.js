@@ -7,8 +7,8 @@ import Parser from "rss-parser";
  */
 let text = `# Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdden)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdden&layout=compact&hide=r,jupyter%20notebook,c%23&exclude_repo=roharui.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HGJin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HGJin&layout=compact&hide=r,jupyter%20notebook,c%23&exclude_repo=roharui.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 이런 환경에 익숙해요✍🏼
 
@@ -25,7 +25,7 @@ gangsuyun6@gmail.com
 
 ## 📕 Latest Blog Posts
 <p>
-    <a href="https://systorage.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
+    <a href="https://hjindata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
 </p>
 
 `;
@@ -39,7 +39,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://systorage.tistory.com/rss');
+    const feed = await parser.parseURL('https://hjindata.tistory.com/rss');
 
     // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
     for (let i = 0; i < 5; i++) {

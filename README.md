@@ -2,7 +2,9 @@
 ### Github 상태
 
 <div id = "main" align = 'center'>
-  <img src = 'https://github-readme-status.vercel.app/api?username=hjindata&count_private=true&show_icons=true&theme=radical'
+  <img src = "https://github-readme-stats.vercel.app/api?username=HGJin&count_private=true&show_icons=true&theme=radical"
+    style = 'height: auto; margin-left: 20px; margin-right: 20px; padding = 10px;'/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HGJin&layout=compact"
     style = 'height: auto; margin-left: 20px; margin-right: 20px; padding = 10px;'/>
 </div>
 

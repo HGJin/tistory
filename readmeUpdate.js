@@ -28,10 +28,10 @@ hjindata@gmail.com
 ## 📝 블로그 최신 글
 <p>
     <a href="https://hjindata.tistory.com/">
-      <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white" width="300" height="200" />
+      <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/tistory.png&logoColor=white" width="300" height="200" />
     </a><br>
     <a href="https://adventurous-pamphlet-28c.notion.site/DA-Data-Analyst-d609592479e144c9ba8ea716122ef05c/">
-      <img src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790&logoColor=white" width="300" height="200" />
+      <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/notion.png&logoColor=white" width="300" height="200" />
     </a><br>
 
 </p>

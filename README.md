@@ -19,7 +19,7 @@
 hjindata@gmail.com
 
 ## 📝 블로그 최신 글
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;background-color: white;padding: 10px;">
     <div style="margin-right: 10px;">
         <a href="https://hjindata.tistory.com/">
             <img src="https://github.com/HGJin/tistory/blob/e35e6767cef7d139a31c75581ae47e5a76940263/logo/tistory.png?raw=true" width="100" height="50" />

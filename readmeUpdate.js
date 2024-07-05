@@ -25,7 +25,8 @@ let text = `# 안녕하세요! 🙋‍♂️
 
 hjindata@gmail.com
 
-## 📝 블로그 최신 글
+## 블로그 및 포트폴리오 💻
+
 <div style="display: flex; flex-direction: row;background-color: white;padding: 10px;">
     <div style="margin-right: 10px;">
         <a href="https://hjindata.tistory.com/">
@@ -37,7 +38,7 @@ hjindata@gmail.com
     </div>
 </div>
 
-
+## 📝 티스토리 최신 글
 
 `;
 

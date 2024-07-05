@@ -27,14 +27,10 @@ jobs:
  
       - name: Commit README
         run: |
-          git config --local user.name 'HGJin' # 수정
-          git config --local user.email 'hgj7618@naver.com' # 수정
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m 'Update README with latest blog posts'
-            git push -f
-          else
-            echo "No changes to commit"
-          fi
+          git config --local user.name 'HGJin'
+          git config --local user.email 'hgj7618@naver.com'
+          git add README.md
+          git commit -m 'Update README with latest blog posts'
+          git push origin HEAD:main
         env:
           GH_PERSONAL_TOKEN: ${{ secrets.repo_token }}

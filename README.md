@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/122>데이터 시각화 기초(3)</a></br><a href=https://hjindata.tistory.com/121>데이터 시각화 기초(2)</a></br><a href=https://hjindata.tistory.com/120>데이터 시각화 기초(1)</a></br><a href=https://hjindata.tistory.com/119>Ch08 클래스</a></br><a href=https://hjindata.tistory.com/118>Ch07-3 모듈 / 모듈 만들기</a></br><a href=https://hjindata.tistory.com/117>Ch07-2 모듈 / 외부 모듈</a></br><a href=https://hjindata.tistory.com/116>Ch07-1 모듈 / 표준 모듈</a></br>
+<a href=https://hjindata.tistory.com/141>EDA(Exploratory Data Analysis)</a></br><a href=https://hjindata.tistory.com/140>Andon 모델링이란?</a></br><a href=https://hjindata.tistory.com/122>데이터 시각화 기초(3)</a></br><a href=https://hjindata.tistory.com/121>데이터 시각화 기초(2)</a></br><a href=https://hjindata.tistory.com/120>데이터 시각화 기초(1)</a></br><a href=https://hjindata.tistory.com/119>Ch08 클래스</a></br><a href=https://hjindata.tistory.com/118>Ch07-3 모듈 / 모듈 만들기</a></br>

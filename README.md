@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/141>EDA(Exploratory Data Analysis)</a></br><a href=https://hjindata.tistory.com/140>Andon 모델링이란?</a></br><a href=https://hjindata.tistory.com/122>데이터 시각화 기초(3)</a></br><a href=https://hjindata.tistory.com/121>데이터 시각화 기초(2)</a></br><a href=https://hjindata.tistory.com/120>데이터 시각화 기초(1)</a></br><a href=https://hjindata.tistory.com/119>Ch08 클래스</a></br><a href=https://hjindata.tistory.com/118>Ch07-3 모듈 / 모듈 만들기</a></br>
+<a href=https://hjindata.tistory.com/166>시각화 이용한 탐색적 데이터 분석(6)</a></br><a href=https://hjindata.tistory.com/163>시각화 이용한 탐색적 데이터 분석(3)</a></br><a href=https://hjindata.tistory.com/161>시각화 이용한 탐색적 데이터 분석(2)</a></br><a href=https://hjindata.tistory.com/160>시각화 이용한 탐색적 데이터 분석(1)</a></br><a href=https://hjindata.tistory.com/159>plotly - 막대 그래프 / 세부 요소 변경</a></br><a href=https://hjindata.tistory.com/157>plotly</a></br><a href=https://hjindata.tistory.com/156>iplot - 선 그래프 / 세부 요소 변경</a></br>

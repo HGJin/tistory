@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/166>시각화 이용한 탐색적 데이터 분석(6)</a></br><a href=https://hjindata.tistory.com/163>시각화 이용한 탐색적 데이터 분석(3)</a></br><a href=https://hjindata.tistory.com/161>시각화 이용한 탐색적 데이터 분석(2)</a></br><a href=https://hjindata.tistory.com/160>시각화 이용한 탐색적 데이터 분석(1)</a></br><a href=https://hjindata.tistory.com/159>plotly - 막대 그래프 / 세부 요소 변경</a></br><a href=https://hjindata.tistory.com/157>plotly</a></br><a href=https://hjindata.tistory.com/156>iplot - 선 그래프 / 세부 요소 변경</a></br>
+<a href=https://hjindata.tistory.com/177>Pandas</a></br><a href=https://hjindata.tistory.com/176>Matplotlib ( 2 )</a></br><a href=https://hjindata.tistory.com/175>Matplotlib ( 1 )</a></br><a href=https://hjindata.tistory.com/174>Numpy ( 3 )</a></br><a href=https://hjindata.tistory.com/173>Numpy ( 2 )</a></br><a href=https://hjindata.tistory.com/172>Numpy ( 1 )</a></br><a href=https://hjindata.tistory.com/171>Web Crawling - 네이버 금융 환율정보 / 시 / 블로그 / 뉴스</a></br>

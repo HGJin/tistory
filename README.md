@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/177>Pandas</a></br><a href=https://hjindata.tistory.com/176>Matplotlib ( 2 )</a></br><a href=https://hjindata.tistory.com/175>Matplotlib ( 1 )</a></br><a href=https://hjindata.tistory.com/174>Numpy ( 3 )</a></br><a href=https://hjindata.tistory.com/173>Numpy ( 2 )</a></br><a href=https://hjindata.tistory.com/172>Numpy ( 1 )</a></br><a href=https://hjindata.tistory.com/171>Web Crawling - 네이버 금융 환율정보 / 시 / 블로그 / 뉴스</a></br>
+<a href=https://hjindata.tistory.com/196>시그널과 함수</a></br><a href=https://hjindata.tistory.com/195>시작</a></br><a href=https://hjindata.tistory.com/194>대중교통 데이터</a></br><a href=https://hjindata.tistory.com/193>인구 공공 데이터 (시각화)</a></br><a href=https://hjindata.tistory.com/192>기온 공공 데이터</a></br><a href=https://hjindata.tistory.com/191>'한국인의 삶 파악하기' 분석</a></br><a href=https://hjindata.tistory.com/190>데이터 가공하기</a></br>

@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/196>시그널과 함수</a></br><a href=https://hjindata.tistory.com/195>시작</a></br><a href=https://hjindata.tistory.com/194>대중교통 데이터</a></br><a href=https://hjindata.tistory.com/193>인구 공공 데이터 (시각화)</a></br><a href=https://hjindata.tistory.com/192>기온 공공 데이터</a></br><a href=https://hjindata.tistory.com/191>'한국인의 삶 파악하기' 분석</a></br><a href=https://hjindata.tistory.com/190>데이터 가공하기</a></br>
+<a href=https://hjindata.tistory.com/226>스토어드 프로시저</a></br><a href=https://hjindata.tistory.com/225>인덱스</a></br><a href=https://hjindata.tistory.com/224>테이블</a></br><a href=https://hjindata.tistory.com/223>MySQL의 데이터 형식</a></br><a href=https://hjindata.tistory.com/222>SQL 기본 쿼리문 ( 2 )</a></br><a href=https://hjindata.tistory.com/221>SQL 기본 쿼리문 ( 1 )</a></br><a href=https://hjindata.tistory.com/220>유틸리티 사용법</a></br>

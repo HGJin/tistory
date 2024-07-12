@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/226>스토어드 프로시저</a></br><a href=https://hjindata.tistory.com/225>인덱스</a></br><a href=https://hjindata.tistory.com/224>테이블</a></br><a href=https://hjindata.tistory.com/223>MySQL의 데이터 형식</a></br><a href=https://hjindata.tistory.com/222>SQL 기본 쿼리문 ( 2 )</a></br><a href=https://hjindata.tistory.com/221>SQL 기본 쿼리문 ( 1 )</a></br><a href=https://hjindata.tistory.com/220>유틸리티 사용법</a></br>
+<a href=https://hjindata.tistory.com/229>스스로 모닝스쿨 40일차(2024.07.12(금))</a></br><a href=https://hjindata.tistory.com/240>실습) adult data 분류</a></br><a href=https://hjindata.tistory.com/239>머신러닝 분류 - 앙상블 러닝</a></br><a href=https://hjindata.tistory.com/238>머신러닝 분류 - 분류 알고리즘 ( 결정 트리 )</a></br><a href=https://hjindata.tistory.com/237>실습 - 피마 인디언 당뇨병 예측</a></br><a href=https://hjindata.tistory.com/236>머신러닝 평가 ( 2 )</a></br><a href=https://hjindata.tistory.com/235>머신러닝 평가 ( 1 )</a></br>

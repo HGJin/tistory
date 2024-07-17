@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/257>스스로 모닝스쿨 42일차(2024.07.16(화))</a></br><a href=https://hjindata.tistory.com/268>칸반(Kanban)</a></br><a href=https://hjindata.tistory.com/267>스크럼(Scrum)</a></br><a href=https://hjindata.tistory.com/266>애자일(Agile)</a></br><a href=https://hjindata.tistory.com/265>간트 차트(Gantt Chart)</a></br><a href=https://hjindata.tistory.com/264>SQL - INSERT / UPDATE / DELETE</a></br><a href=https://hjindata.tistory.com/263>SQL - 서브쿼리</a></br>
+<a href=https://hjindata.tistory.com/273>DTI(Debt to Income Ratio, 총부채상환비율)</a></br><a href=https://hjindata.tistory.com/272>LTV(Loan To Value, 담보인정비율)</a></br><a href=https://hjindata.tistory.com/271>DSR(Debt Service Ratio, 총부채상환원리금상환 비율)</a></br><a href=https://hjindata.tistory.com/270>모닝스쿨 25일차(24.07.17(수) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/257>스스로 모닝스쿨 42일차(2024.07.16(화))</a></br><a href=https://hjindata.tistory.com/268>칸반(Kanban)</a></br><a href=https://hjindata.tistory.com/267>스크럼(Scrum)</a></br>

@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/273>DTI(Debt to Income Ratio, 총부채상환비율)</a></br><a href=https://hjindata.tistory.com/272>LTV(Loan To Value, 담보인정비율)</a></br><a href=https://hjindata.tistory.com/271>DSR(Debt Service Ratio, 총부채상환원리금상환 비율)</a></br><a href=https://hjindata.tistory.com/270>모닝스쿨 25일차(24.07.17(수) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/257>스스로 모닝스쿨 42일차(2024.07.16(화))</a></br><a href=https://hjindata.tistory.com/268>칸반(Kanban)</a></br><a href=https://hjindata.tistory.com/267>스크럼(Scrum)</a></br>
+<a href=https://hjindata.tistory.com/296>전이 학습</a></br><a href=https://hjindata.tistory.com/295>이미지 증강</a></br><a href=https://hjindata.tistory.com/294>오토인코더</a></br><a href=https://hjindata.tistory.com/293>비지도학습 신경망(GAN)</a></br><a href=https://hjindata.tistory.com/292>순환신경망_재정리 및 추가</a></br><a href=https://hjindata.tistory.com/291>자연어 처리_재정리</a></br><a href=https://hjindata.tistory.com/290>DNN을 이용한 영상 분류_재정리</a></br>

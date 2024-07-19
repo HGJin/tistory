@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/296>전이 학습</a></br><a href=https://hjindata.tistory.com/295>이미지 증강</a></br><a href=https://hjindata.tistory.com/294>오토인코더</a></br><a href=https://hjindata.tistory.com/293>비지도학습 신경망(GAN)</a></br><a href=https://hjindata.tistory.com/292>순환신경망_재정리 및 추가</a></br><a href=https://hjindata.tistory.com/291>자연어 처리_재정리</a></br><a href=https://hjindata.tistory.com/290>DNN을 이용한 영상 분류_재정리</a></br>
+<a href=https://hjindata.tistory.com/307>스스로 모닝스쿨 44일차(2024.07.19(금))</a></br><a href=https://hjindata.tistory.com/306>실습) 불균형 데이터로 신용카드 사기 탐지 모델 구현</a></br><a href=https://hjindata.tistory.com/305>실습) 철판 제고 공정 데이터</a></br><a href=https://hjindata.tistory.com/304>공정 검사와 딥러닝</a></br><a href=https://hjindata.tistory.com/303>실습) Google Net</a></br><a href=https://hjindata.tistory.com/302>이론 - DenseNet</a></br><a href=https://hjindata.tistory.com/301>이론 - Residual Network</a></br>

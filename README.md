@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/324>두 행 병합</a></br><a href=https://hjindata.tistory.com/321>스스로 모닝스쿨 53일차(2024.08.12(월))</a></br><a href=https://hjindata.tistory.com/320>.dbf 확장자 파일 .csv 파일로 변경</a></br><a href=https://hjindata.tistory.com/319>csv파일 결합</a></br><a href=https://hjindata.tistory.com/317>스스로 모닝스쿨 52일차(2024.08.02(금))</a></br><a href=https://hjindata.tistory.com/316>스스로 모닝스쿨 51일차(2024.08.01(목))</a></br><a href=https://hjindata.tistory.com/315>스스로 모닝스쿨 50일차(2024.07.31(수))</a></br>
+<a href=https://hjindata.tistory.com/326>스스로 모닝스쿨 55일차(2024.08.16(금))</a></br><a href=https://hjindata.tistory.com/325>스스로 모닝스쿨 54일차(2024.08.15(목))</a></br><a href=https://hjindata.tistory.com/324>두 행 병합</a></br><a href=https://hjindata.tistory.com/323>직무스터디 6일차 ( 2024.08.14 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/321>스스로 모닝스쿨 53일차(2024.08.12(월))</a></br><a href=https://hjindata.tistory.com/320>.dbf 확장자 파일 .csv 파일로 변경</a></br><a href=https://hjindata.tistory.com/319>csv파일 결합</a></br>

@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/402>직무스터디 15차 ( 2024.11.13 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/397>최솟값 구하기</a></br><a href=https://hjindata.tistory.com/401>모닝스쿨 45일차(24.11.12(화) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/396>어린 동물 찾기</a></br><a href=https://hjindata.tistory.com/395>스스로 모닝스쿨 86일차(24.11.11(월))</a></br><a href=https://hjindata.tistory.com/392>프로그래머스 - 아픈 동물 찾기</a></br><a href=https://hjindata.tistory.com/388>스스로 모닝스쿨 85일차(24.11.08(금))</a></br>
+<a href=https://hjindata.tistory.com/398>동명 동물 수 찾기</a></br><a href=https://hjindata.tistory.com/402>직무스터디 15차 ( 2024.11.13 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/397>최솟값 구하기</a></br><a href=https://hjindata.tistory.com/401>모닝스쿨 45일차(24.11.12(화) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/396>어린 동물 찾기</a></br><a href=https://hjindata.tistory.com/395>스스로 모닝스쿨 86일차(24.11.11(월))</a></br><a href=https://hjindata.tistory.com/392>프로그래머스 - 아픈 동물 찾기</a></br>

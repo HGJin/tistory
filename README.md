@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/424>조건에 맞는 아이템들의 가격의 총합 구하기</a></br><a href=https://hjindata.tistory.com/421>스스로 모닝스쿨 91일차(24.11.29(금))</a></br><a href=https://hjindata.tistory.com/423>조건에 맞는 회원수 구하기</a></br><a href=https://hjindata.tistory.com/419>모닝스쿨 50일차(24.11.28(목) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/422>흉부외과 또는 일반외과 의사 목록 출력하기</a></br><a href=https://hjindata.tistory.com/420>직무스터디 17차 ( 2024.11.27 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/417>가격이 제일 비싼 식품의 정보 출력하기</a></br>
+<a href=https://hjindata.tistory.com/427>동물의 아이디와 이름</a></br><a href=https://hjindata.tistory.com/425>11월의 반성과 12월의 다짐</a></br><a href=https://hjindata.tistory.com/426>스스로 모닝스쿨 92일차(24.11.02(월))</a></br><a href=https://hjindata.tistory.com/424>조건에 맞는 아이템들의 가격의 총합 구하기</a></br><a href=https://hjindata.tistory.com/421>스스로 모닝스쿨 91일차(24.11.29(금))</a></br><a href=https://hjindata.tistory.com/423>조건에 맞는 회원수 구하기</a></br><a href=https://hjindata.tistory.com/419>모닝스쿨 50일차(24.11.28(목) 07:30 ~ 08:30)</a></br>

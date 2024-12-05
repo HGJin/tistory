@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/443>.</a></br><a href=https://hjindata.tistory.com/441>가장 비싼 상품 구하기</a></br><a href=https://hjindata.tistory.com/440>모닝스쿨 51일차(24.12.03(화) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/439>Kaggle 데이터를 활용한 개인화 추천시스템 - 1일차</a></br><a href=https://hjindata.tistory.com/438>EDA란?</a></br><a href=https://hjindata.tistory.com/427>동물의 아이디와 이름</a></br><a href=https://hjindata.tistory.com/425>11월의 반성과 12월의 다짐</a></br>
+<a href=https://hjindata.tistory.com/444>.</a></br><a href=https://hjindata.tistory.com/443>.</a></br><a href=https://hjindata.tistory.com/442>직무스터디 18차 ( 2024.12.04 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/441>가장 비싼 상품 구하기</a></br><a href=https://hjindata.tistory.com/440>모닝스쿨 51일차(24.12.03(화) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/439>Kaggle 데이터를 활용한 개인화 추천시스템(1) - 메타코드 M</a></br><a href=https://hjindata.tistory.com/438>EDA란?</a></br>

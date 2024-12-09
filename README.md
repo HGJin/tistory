@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/462>잡은 물고기의 평균 길이 구하기 - ROUND(), AVG(), IF()</a></br><a href=https://hjindata.tistory.com/446>인기있는 아이스크림</a></br><a href=https://hjindata.tistory.com/447>스스로 모닝스쿨 93일차(24.12.05(금))</a></br><a href=https://hjindata.tistory.com/450>Kaggle 데이터를 활용한 개인화 추천시스템(4)</a></br><a href=https://hjindata.tistory.com/449>Kaggle 데이터를 활용한 개인화 추천시스템(3)</a></br><a href=https://hjindata.tistory.com/448>Kaggle 데이터를 활용한 개인화 추천시스템(2)</a></br><a href=https://hjindata.tistory.com/445>이름이 없는 동물의 아이디</a></br>
+<a href=https://hjindata.tistory.com/451>12세 이하인 여자 환자 목록 출력하기 - IFNULL()</a></br><a href=https://hjindata.tistory.com/474>스스로 모닝스쿨 94일차(24.12.09(월))</a></br><a href=https://hjindata.tistory.com/462>잡은 물고기의 평균 길이 구하기 - ROUND(), AVG(), IF()</a></br><a href=https://hjindata.tistory.com/446>인기있는 아이스크림</a></br><a href=https://hjindata.tistory.com/447>스스로 모닝스쿨 93일차(24.12.05(금))</a></br><a href=https://hjindata.tistory.com/450>Kaggle 데이터를 활용한 개인화 추천시스템(4)</a></br><a href=https://hjindata.tistory.com/449>Kaggle 데이터를 활용한 개인화 추천시스템(3)</a></br>

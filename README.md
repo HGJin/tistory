@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/455>과일로 만든 아이스크림 고르기 - 서브쿼리 OR 조인</a></br><a href=https://hjindata.tistory.com/475>스스로 모닝스쿨 95일차(24.12.13(금))</a></br><a href=https://hjindata.tistory.com/454>평균 일일 대여 요금 구하기 - AVG(), ROUND()</a></br><a href=https://hjindata.tistory.com/469>모닝스쿨 54일차(24.12.12(목) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/488>SPC (통계적 공정관리)</a></br><a href=https://hjindata.tistory.com/453>모든 레코드 조회하기 - ORDER BY()</a></br><a href=https://hjindata.tistory.com/472>직무스터디 19차 ( 2024.12.11 07:30~08:30 )</a></br>
+<a href=https://hjindata.tistory.com/456>잔챙이 잡은 수 구하기 - ISNULL(), COUNT()</a></br><a href=https://hjindata.tistory.com/476>스스로 모닝스쿨 96일차(24.12.16(월))</a></br><a href=https://hjindata.tistory.com/455>과일로 만든 아이스크림 고르기 - 서브쿼리 OR 조인</a></br><a href=https://hjindata.tistory.com/475>스스로 모닝스쿨 95일차(24.12.13(금))</a></br><a href=https://hjindata.tistory.com/454>평균 일일 대여 요금 구하기 - AVG(), ROUND()</a></br><a href=https://hjindata.tistory.com/469>모닝스쿨 54일차(24.12.12(목) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/488>SPC (통계적 공정관리)</a></br>

@@ -33,4 +33,4 @@ hjindata@gmail.com
 
 ## 📝 티스토리 최신 글
 
-<a href=https://hjindata.tistory.com/459>Python 개발자 찾기 - IN</a></br><a href=https://hjindata.tistory.com/471>모닝스쿨 56일차(24.12.19(목) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/458>특정 옵션이 포함된 자동차 리스트 구하기 - LIKE</a></br><a href=https://hjindata.tistory.com/473>직무스터디 20차 ( 2024.12.18 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/457>잡은 물고기 중 가장 큰 물고기의 길이 구하기 - CONCAT()</a></br><a href=https://hjindata.tistory.com/470>모닝스쿨 55일차(24.12.17(화) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/456>잔챙이 잡은 수 구하기 - ISNULL(), COUNT()</a></br>
+<a href=https://hjindata.tistory.com/460>최댓값 구하기 - MAX()</a></br><a href=https://hjindata.tistory.com/477>스스로 모닝스쿨 97일차(24.12.20(금))</a></br><a href=https://hjindata.tistory.com/459>Python 개발자 찾기 - IN</a></br><a href=https://hjindata.tistory.com/471>모닝스쿨 56일차(24.12.19(목) 07:30 ~ 08:30)</a></br><a href=https://hjindata.tistory.com/458>특정 옵션이 포함된 자동차 리스트 구하기 - LIKE</a></br><a href=https://hjindata.tistory.com/473>직무스터디 20차 ( 2024.12.18 07:30~08:30 )</a></br><a href=https://hjindata.tistory.com/457>잡은 물고기 중 가장 큰 물고기의 길이 구하기 - CONCAT()</a></br>
